@@ -78,9 +78,9 @@ YOLOv5_and_pointnet_for_object_detection_on_kitti
 
 ​	（9）点云连续帧检测GIF可视化
 
-![点云连续帧检测GIF可视化](img_for_md/点云连续帧检测GIF可视化.GIF)
+![点云连续帧检测GIF可视化1](img_for_md/点云连续帧检测GIF可视化1.GIF)
 
-![点云连续帧检测GIF可视化](img_for_md/点云连续帧检测GIF可视化.GIF)
+![点云连续帧检测GIF可视化2](img_for_md/点云连续帧检测GIF可视化2.GIF)
 
   （10）视频检测GIF可视化
 
