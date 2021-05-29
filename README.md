@@ -48,7 +48,6 @@ YOLOv5_and_pointnet_for_object_detection_on_kitti
 
 ​	（1）图像和点云数据的原始数据可视化
 
-![图像和点云数据的原始数据可视化](img_for_md/图像和点云数据的原始数据可视化.png)
 
 ​	（2）图像+2D检测框的可视化
 
