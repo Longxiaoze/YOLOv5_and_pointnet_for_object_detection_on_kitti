@@ -4,7 +4,7 @@
 
 YOLOv5_and_pointnet_for_object_detection_on_kitti
 
-![Object Detection Pipeline in KITTI Autonomous Driving Scenes Using Images and Lidar Point Clouds](img_for_md/eng.png)
+![Object Detection Pipeline in KITTI Autonomous Driving Scenes Using Images and Lidar Point Clouds](img_for_md/eng2.png)
 
 ## Abstract
 
